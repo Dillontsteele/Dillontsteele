@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey there, I'm Dillon
 
-<!--
-**Dillontsteele/Dillontsteele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | Frontend | Backend | Full Stack | Musician | Creative Technologist**  
+🚀 Passionate about building interactive & scalable web design, and crafting immersive digital experiences & sonic landscapes.
+🎸 Musician by heart, coder by craft
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL  
+- **Tools & DevOps:** Git, GitHub, Docker, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On  
+🔹 https://themarquisisdead.blogspot.com/ – Portfolio/EPK for my personal musical project
+
+## 📫 Connect with Me  
+📧 Email: dillontsteele@posteo.net
+🌍 Portfolio: 
+💼 LinkedIn: https://www.linkedin.com/in/dillontsteele
+
+💡 Always learning, always building.
