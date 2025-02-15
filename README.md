@@ -5,10 +5,10 @@
 🎸 Musician by heart, coder by craft
 
 ## 🔧 Tech Stack  
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL  
-- **Tools & DevOps:** Git, GitHub, Docker, CI/CD  
+Languages: Ruby, JavaScript (ES6+), SQL
+Frontend: HTML, CSS (Bootstrap, Tailwind), JavaScript (Vanilla, Stimulus.js)
+Backend: Ruby on Rails, PostgreSQL
+Tools & DevOps: Git, GitHub, Heroku, Docker, CI/CD, Agile & Pair Programming  
 
 ## 🚀 What I'm Currently Working On  
 🔹 https://themarquisisdead.blogspot.com/ – Portfolio/EPK for my personal musical project
