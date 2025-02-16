@@ -15,7 +15,7 @@ Tools & DevOps: Git, GitHub, Heroku, Docker, CI/CD, Agile & Pair Programming
 
 ## 📫 Connect with Me  
 📧 Email: dillontsteele@posteo.net  
-🌍 Portfolio:  
+🌍 Portfolio:  https://dillontsteele.blogspot.com/p/home.html  
 💼 LinkedIn: https://www.linkedin.com/in/dillontsteele  
 
 💡 Always learning, always building.
