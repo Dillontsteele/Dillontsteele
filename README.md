@@ -12,10 +12,11 @@ Tools & DevOps: Git, GitHub, Heroku, Docker, CI/CD, Agile & Pair Programming
 
 ## 🚀 What I'm Currently Working On  
 🔹 https://themarquisisdead.blogspot.com/ – Portfolio/EPK for my personal musical project  
+🔹 https://dillondev.blogspot.com/ – Portfolio for my UX/UI and Front-end work
 
 ## 📫 Connect with Me  
 📧 Email: dillontsteele@posteo.net  
-🌍 Portfolio:  https://dillontsteele.blogspot.com/p/home.html  
+🌍 Portfolio: https://dillondev.blogspot.com/  
 💼 LinkedIn: https://www.linkedin.com/in/dillontsteele  
 
 💡 Always learning, always building.
